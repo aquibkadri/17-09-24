@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table,
+th {
+  border: 2px solid black;
+}
+td {
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
